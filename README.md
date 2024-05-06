@@ -4,10 +4,11 @@ In this project, we experimented and implemented fun layout with HTML and CSS ON
 
 This project was completed during Full-Stack Specialisation at Holberton School.
 
-- [0. Sprite languages](#0-sprite-languages)
-- [1. Move the (under)line](#1-move-the-underline)
-- [2. Toggle](#2-toggle)
-- [3. Menu](#3-menu)
+For easier viewing, all tasks are accessible in Github Pages. You can find the link to each one below.
+- [0. Sprite languages](https://judgy53.github.io/holbertonschool-Fun-with-CSS/0-index.html)
+- [1. Move the (under)line](https://judgy53.github.io/holbertonschool-Fun-with-CSS/1-index.html)
+- [2. Toggle](https://judgy53.github.io/holbertonschool-Fun-with-CSS/2-index.html)
+- [3. Menu](https://judgy53.github.io/holbertonschool-Fun-with-CSS/3-index.html)
 
 
 ## 0. Sprite languages 
