@@ -7,6 +7,7 @@ This project was completed during Full-Stack Specialisation at Holberton School.
 - [0. Sprite languages](#0-sprite-languages)
 - [1. Move the (under)line](#1-move-the-underline)
 - [2. Toggle](#2-toggle)
+- [3. Menu](#3-menu)
 
 
 ## 0. Sprite languages 
@@ -32,3 +33,9 @@ Without modifying [2-index.html](2-index.html), create `2-styles.css` and genera
 **Unchecked:**
 
 ![Expected result when input is not checked](previews/2-unchecked.png)
+
+## 3. Menu
+
+Without modifying [3-index.html](3-index.html), create `3-styles.css` and generate this layout/animation:
+
+![Expected result for task 3](previews/3.gif)
